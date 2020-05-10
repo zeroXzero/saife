@@ -12,9 +12,7 @@ Thanks to musyoku's pytorch implementaion for all the unsupervised setup and qui
 
 Requirements: Tested on
 
-Python 3.6.9
-Tensorflow 1.12.0
-Tflearn
+Python 3.6.9, Tensorflow 1.12.0, Tflearn
 
 
 Sample run:
